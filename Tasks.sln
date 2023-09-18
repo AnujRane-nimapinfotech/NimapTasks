@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String StringBuilder StringInterpolation", "String StringBuilder StringInterpolation\String StringBuilder StringInterpolation.csproj", "{72017C71-6F5B-4338-AECC-1EF9C5800DF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Use of Constructor", "Use of Constructor\Use of Constructor.csproj", "{86531F5E-23C1-4BC7-B682-313E75FC5707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{72017C71-6F5B-4338-AECC-1EF9C5800DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72017C71-6F5B-4338-AECC-1EF9C5800DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72017C71-6F5B-4338-AECC-1EF9C5800DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86531F5E-23C1-4BC7-B682-313E75FC5707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86531F5E-23C1-4BC7-B682-313E75FC5707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86531F5E-23C1-4BC7-B682-313E75FC5707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86531F5E-23C1-4BC7-B682-313E75FC5707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
