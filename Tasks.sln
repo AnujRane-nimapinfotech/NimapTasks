@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overriding", "Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primitve vs NonPrimitive Types", "Primitve vs NonPrimitive Types\Primitve vs NonPrimitive Types.csproj", "{84F3DAFE-E848-49A0-8996-6917D008C45B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{D93764FA-745A-4D30-8E34-971FADDB6B9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{84F3DAFE-E848-49A0-8996-6917D008C45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84F3DAFE-E848-49A0-8996-6917D008C45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84F3DAFE-E848-49A0-8996-6917D008C45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93764FA-745A-4D30-8E34-971FADDB6B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93764FA-745A-4D30-8E34-971FADDB6B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93764FA-745A-4D30-8E34-971FADDB6B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93764FA-745A-4D30-8E34-971FADDB6B9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
