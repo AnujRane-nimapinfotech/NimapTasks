@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Use of Constructor", "Use o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{138DC368-0C53-40BA-A043-1DC1F0913881}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarVsObjectVsDynamic", "VarVsObjectVsDynamic\VarVsObjectVsDynamic.csproj", "{D72A970E-362F-4194-9313-378A9F0087B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{138DC368-0C53-40BA-A043-1DC1F0913881}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{138DC368-0C53-40BA-A043-1DC1F0913881}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{138DC368-0C53-40BA-A043-1DC1F0913881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72A970E-362F-4194-9313-378A9F0087B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72A970E-362F-4194-9313-378A9F0087B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72A970E-362F-4194-9313-378A9F0087B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72A970E-362F-4194-9313-378A9F0087B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
