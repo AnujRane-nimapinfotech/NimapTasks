@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "Lambda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutAndRef", "OutAndRef\OutAndRef.csproj", "{44C0F500-1E2F-43B8-AAFE-767B4BDA222B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerableAndIEnumerator", "IEnumerableAndIEnumerator\IEnumerableAndIEnumerator.csproj", "{8F46F361-F4E5-493A-A449-E11D439D5143}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{44C0F500-1E2F-43B8-AAFE-767B4BDA222B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44C0F500-1E2F-43B8-AAFE-767B4BDA222B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44C0F500-1E2F-43B8-AAFE-767B4BDA222B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F46F361-F4E5-493A-A449-E11D439D5143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F46F361-F4E5-493A-A449-E11D439D5143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F46F361-F4E5-493A-A449-E11D439D5143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F46F361-F4E5-493A-A449-E11D439D5143}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
