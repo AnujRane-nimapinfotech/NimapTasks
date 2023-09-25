@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutAndRef", "OutAndRef\OutA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerableAndIEnumerator", "IEnumerableAndIEnumerator\IEnumerableAndIEnumerator.csproj", "{8F46F361-F4E5-493A-A449-E11D439D5143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskParallelLibrary", "TaskParallelLibrary\TaskParallelLibrary.csproj", "{BE995221-EAB1-4BBA-9648-522348B3F807}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8F46F361-F4E5-493A-A449-E11D439D5143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F46F361-F4E5-493A-A449-E11D439D5143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F46F361-F4E5-493A-A449-E11D439D5143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE995221-EAB1-4BBA-9648-522348B3F807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE995221-EAB1-4BBA-9648-522348B3F807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE995221-EAB1-4BBA-9648-522348B3F807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE995221-EAB1-4BBA-9648-522348B3F807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
